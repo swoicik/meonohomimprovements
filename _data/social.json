@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/runfastjumpfar"
+    },
+    {
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/swoicik/runfastjumpfar"
+    }
+  ]
+}
