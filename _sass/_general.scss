@@ -13,6 +13,7 @@ textarea {
 html {
   border: 15px solid _palette(accent);
   box-sizing: border-box;
+  background: #fefdf8;
 
   @media only screen and (max-width: 600px) {
     border-width: 5px;
